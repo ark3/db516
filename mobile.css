@@ -1,0 +1,103 @@
+html, body {
+    font-style: normal;
+    text-transform: none;
+    background: #ddd;
+    font-weight: normal;
+    font-family: sans-serif;
+    line-height: 150%;
+    color: #000;
+}
+
+A:link {color: #000; text-decoration: none;}
+A:visited {color: #000; text-decoration: none;}
+A:active {color: #000; text-decoration: none;}
+A:hover {color: #000; text-decoration: none;}
+
+.header {
+    height: 37px;
+    background: #bbb;
+    margin: 0px;
+    padding: 5px;
+}
+.header A:link {color: #000; text-decoration: none;}
+.header A:visited {color: #000; text-decoration: none;}
+.header A:active {color: #000; text-decoration: none;}
+.header A:hover {color: #000; text-decoration: none;}
+
+.controls {
+    color: #ddd;
+    background: #000;
+    margin: 0px;
+    padding: 5px;
+    font-size: 80%;
+    text-align: center;
+}
+.controls A:link {color: #ddd; text-decoration: none;}
+.controls A:visited {color: #ddd; text-decoration: none;}
+.controls A:active {color: #ddd; text-decoration: none;}
+.controls A:hover {color: #ddd; text-decoration: none;}
+
+p {
+    padding: 5px;
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+
+.titleinfo {
+    width: 100%;
+    background: #ccc;
+    line-height: 120%;
+    margin-bottom: 1px;
+    font-weight: bold;
+}
+
+.time {
+    font-weight: bold;
+    margin: 0px;
+    padding-bottom: 0px;
+    line-height: 120%;
+}
+
+.room {
+    font-size: 80%;
+    margin: 0px;
+    padding-top: 0px;
+    line-height: 120%;
+}
+
+.desc {
+    font-size: 90%;
+    line-height: 120%;
+}
+
+h1, h2, h3, h4 {
+    text-align: center;
+    padding: 5px;
+    display: block;
+    margin: 0px;
+}
+
+h1 {
+    font-size: 150%;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 120%;
+    font-weight: bold;
+    background: #999;
+}
+
+h3 {
+    font-weight: bold;
+    background: #ccc;
+    padding-bottom: 0px;
+}
+
+h4 {
+    font-size: 80%;
+    font-weight: bold;
+    background: #ccc;
+    padding-top: 0px;
+}
+
